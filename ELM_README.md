@@ -1,5 +1,5 @@
 # ELM (Embryonic Lineage in MatLab)
-The included MatLab script can be used to generate a plotted lineage (tree) from mean cell division data collected over a population of embryos. It is named after the ELM tree, native to the region in which this code was written (Durham and Chapel Hill, North Carolina, United States).
+The included MatLab script can be used to generate a plotted lineage (tree) from mean cell division data collected over a population of embryos. It is named after the Elm tree, native to the region in which this code was written (Durham and Chapel Hill, North Carolina, United States).
 More detailed information can be found commented at the start of the MatLab script.
 
 To understand the script, use the example file included with mean data generated from 9 embryos of the species Hypsibius exemplaris over the first seven rounds of division.
