@@ -6,3 +6,4 @@ To understand the script, use the EXAMPLE_DATA excel file included with mean dat
 For this example, you must have the script and the excel file saved in the same folder on your computer and you must specify the excel spreadsheet name and ranges from which to pull the data at the top section of the MatLab script with 'xlsread' in the lines.
 
 Reach-out to me for assistance. I am happy to help!
+Kira H.
