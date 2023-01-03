@@ -1,7 +1,7 @@
 % Embryonic Lineaging in Matlab (ELM)
 % by Kira L. Heikes
 % Goldstein Lab at UNC-Chapel Hill
-% published in: 
+% developed for manuscript preprinted at: https://www.biorxiv.org/content/10.1101/2023.01.02.522500v1
 % code deposited in Github at: https://github.com/kiraheikes/ELM
 
 % originally made to plot embryonic lineage of the tardigrade Hypsibius
